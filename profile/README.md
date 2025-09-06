@@ -1,30 +1,40 @@
 # 🐳 OrcaEdit
 
 **Create, refine, and transform presentations with the power of AI.**  
-Website: https://orcaecho.ai • LinkedIn: (add yours) • Contact: jeffrey.luo@orcaecho.ai
+Website: https://orcaecho.ai • Contact: jeffrey.luo@orcaecho.ai • LinkedIn: https://www.linkedin.com/in/zhixiang-jeffrey-luo-70850124/
 
 ---
 
 ## What we’re building
-OrcaEdit is an AI-native presentation platform. Our focus:
-- **AI Engine** for PPTX ↔ JSON round-trip (true edit, not images)
-- **Interactive Rendering** for precise, real-time editing in the browser
-- **Chatbot** for rewrite/summarize/structure and workflow automation
+OrcaEdit is an AI-powered platform designed to make presentations smarter, faster, and easier to create.  
+We combine natural language, intelligent design, and real-time interaction to help anyone go from **idea → polished slides** in minutes.  
 
 ---
 
-## Repositories (private, in active development)
+## Our Components
+- **OrcaEdit-Web** — User-friendly web interface for creating and editing presentations.  
+- **OrcaEdit-Renderer** — Interactive rendering system for live previews and editing.  
+- **OrcaEdit-Chatbot** — Conversational assistant for generating, refining, and restructuring content.  
+- **OrcaEdit-Engine** — The intelligent backend that powers automation and editing features.  
+- **OrcaEdit-API** — Secure gateway for connecting the web app, AI, and core services.  
+- **OrcaEdit-Infra** — Infrastructure, deployment, and monitoring for reliability and scale.  
 
-- **OrcaEdit-Engine** — Core PPTX ↔ JSON conversion, layout extraction, export to PPTX.  
-- **OrcaEdit-Renderer** — Interactive previews (Canvas/SVG), selection, drag/resize, undo/redo.  
-- **OrcaEdit-Chatbot** — Agentic workflows and content generation; orchestration for slide tasks.  
-- **OrcaEdit-API** — Public gateway: verifies Firebase tokens, enforces auth/quotas/billing; routes to core services.  
-- **OrcaEdit-Web** — Next.js app: uploads, editing UI, chat, projects, auth.  
-- **OrcaEdit-Infra** — IaC & deployments (Cloud Run, networking, observability), CI/CD templates.
-
-> We keep core repos private while we iterate quickly. Public SDKs/docs will arrive as we open up integration paths.
+> Our core work remains private while we move fast, but we’ll open up SDKs and integrations in the future.  
 
 ---
 
-## Architecture (at a glance)
+## Roadmap
+- 🚀 Build the editing experience that feels as natural as conversation.  
+- 🎨 Smart layouts, themes, and design guidance.  
+- 💬 AI assistant for rephrasing, summarizing, and structuring presentations.  
+- 🌐 Collaboration, integrations, and APIs.  
 
+---
+
+## Connect
+We’re a small team building with passion. If you’re interested in collaborating,  
+reach out at **jeffrey.luo@orcaecho.ai**.
+
+---
+
+*© OrcaEchoAI. All rights reserved.*
