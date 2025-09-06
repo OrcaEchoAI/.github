@@ -1,7 +1,6 @@
 # 🐳 OrcaEdit
 
 **Create, refine, and transform presentations with the power of AI.**  
-Website: https://orcaecho.ai • Contact: jeffrey.luo@orcaecho.ai • LinkedIn: https://www.linkedin.com/in/zhixiang-jeffrey-luo-70850124/
 
 ---
 
@@ -34,6 +33,7 @@ We combine natural language, intelligent design, and real-time interaction to he
 ## Connect
 We’re a small team building with passion. If you’re interested in collaborating,  
 reach out at **jeffrey.luo@orcaecho.ai**.
+Website: https://orcaecho.ai
 
 ---
 
