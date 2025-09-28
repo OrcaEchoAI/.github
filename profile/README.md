@@ -13,7 +13,7 @@ We combine natural language, intelligent design, and real-time interaction to he
 ## Our Components
 - **OrcaEdit-Web** — User-friendly web interface for creating and editing presentations.  
 - **OrcaEdit-Renderer** — Interactive rendering system for live previews and editing.  
-- **OrcaEdit-Chatbot** — Conversational assistant for generating, refining, and restructuring content.  
+- **OrcaEdit-Chatbot** — A Google Drive add-on that adds an AI chatbox inside Docs, Slides, and Sheets..  
 - **OrcaEdit-Engine** — The intelligent backend that powers automation and editing features.  
 - **OrcaEdit-API** — Secure gateway for connecting the web app, AI, and core services.  
 - **OrcaEdit-Infra** — Infrastructure, deployment, and monitoring for reliability and scale.  
@@ -37,4 +37,4 @@ Website: https://orcaecho.ai
 
 ---
 
-*© OrcaEchoAI. All rights reserved.*
+*© OrcaEcho.ai. All rights reserved.*
